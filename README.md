@@ -1,1 +1,1 @@
-GPU Project
+CUDA Project
